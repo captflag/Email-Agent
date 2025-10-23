@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Email Agent",
+  "description": "An automated AI agent that analyzes your emails, identifies unwanted messages like spam and promotions, and suggests them for deletion. This app uses mock data to simulate the experience.",
+  "requestFramePermissions": []
+}
